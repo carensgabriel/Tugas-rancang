@@ -5,7 +5,7 @@
 
 struct menu
 {
-    char makanan[30];
+    char foods[30];
     char minuman[30];
     int harga;
 
